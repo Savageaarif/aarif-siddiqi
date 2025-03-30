@@ -74,7 +74,8 @@ a:hover {
   text-decoration: none;
 }
 
-body,
+
+
 td,
 th,
 tr,
@@ -103,10 +104,10 @@ h2 {
 }
 
 .name {
-  padding-top: 20px;
-  margin: 0;
-  font-family: 'Lato', Verdana, Helvetica, sans-serif;
-  font-size: 32px;
+  text-align: center;
+  font-size: 2.5em;
+  margin-bottom: 10px;
+  color: #2c3e50;
 }
 
 .one {
@@ -136,6 +137,7 @@ span.highlight {
 
 /* New styles added below */
 body {
+  font-family: Arial, sans-serif;
   max-width: 800px;
   margin: 0 auto;
   padding: 20px;
@@ -188,4 +190,7 @@ ul li:before {
 .contact a {
   margin: 0 15px;
   font-weight: bold;
+}
+.contact a:hover {
+  color: #e74c3c;
 }
