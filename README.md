@@ -1,1 +1,1 @@
-This is the source code to Jon Barron's public academic website: https://jonbarron.info/. Feel free to clone this code for your own personal use.
+This is personal portfolio web page has been deployed at github pages and the link is public, website: https://savageaarif.github.io/aarif-siddiqi/. Feel free to access this link to view my personal information.
